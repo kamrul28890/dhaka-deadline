@@ -1,0 +1,31 @@
+; DHAKA DEADLINE — Windows driving prototype
+config_version=5
+
+[application]
+config/name="Dhaka Deadline"
+config/version="2.0.0"
+config/description="A journey through Dhaka. Every minute is a decision."
+run/main_scene="res://scenes/main.tscn"
+config/features=PackedStringArray("4.7", "Forward Plus")
+
+[display]
+window/size/viewport_width=1600
+window/size/viewport_height=900
+window/size/window_width_override=1440
+window/size/window_height_override=810
+window/stretch/mode="canvas_items"
+
+[rendering]
+renderer/rendering_method="forward_plus"
+renderer/rendering_method.mobile="mobile"
+textures/default_filters/use_nearest_mipmap_filter=false
+textures/default_filters/anisotropic_filtering_level=3
+environment/defaults/default_clear_color=Color(0.56, 0.65, 0.7, 1)
+anti_aliasing/quality/msaa_3d=2
+lights_and_shadows/directional_shadow/size=4096
+
+[physics]
+common/physics_ticks_per_second=60
+
+[audio]
+driver/enable_input=false

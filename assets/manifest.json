@@ -1,0 +1,156 @@
+[
+  {
+    "file": "assets/textures/asphalt_02_diff.jpg",
+    "source": "https://polyhaven.com/a/asphalt_02",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "1aa5ce99f58a625c71d48cfc3e68b65ca85ccb00f39e045c0a928608a0ea25ed"
+  },
+  {
+    "file": "assets/textures/asphalt_02_nor_gl.jpg",
+    "source": "https://polyhaven.com/a/asphalt_02",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "42a1c381b53204e83a982db2864479a30bc127bbdeebb1006f8ee51bff099df3"
+  },
+  {
+    "file": "assets/textures/asphalt_02_rough.jpg",
+    "source": "https://polyhaven.com/a/asphalt_02",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/asphalt_02/asphalt_02_rough_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "70ba3edc65525eb4dc366cf010ca7ae0bd34e0251ff0225c2dad627a873d0712"
+  },
+  {
+    "file": "assets/textures/kloppenheim_06_puresky_hdri.hdr",
+    "source": "https://polyhaven.com/a/kloppenheim_06_puresky",
+    "download": "https://dl.polyhaven.org/file/ph-assets/HDRIs/hdr/2k/kloppenheim_06_puresky_2k.hdr",
+    "license": "CC0-1.0",
+    "sha256": "99451201586489ef3288c97bfac2a2ac232a5491c51a1faf0ec8ea39f3ccd533"
+  },
+  {
+    "file": "assets/fonts/NotoSansBengali.ttf",
+    "source": "https://github.com/google/fonts/tree/main/ofl/notosansbengali",
+    "license": "OFL-1.1",
+    "sha256": "dcd42978094e584a849c84a51450eeac40c8826057d566ea6d4b9627a403a05a"
+  },
+  {
+    "file": "assets/models/sedan_player.glb",
+    "source": "https://tevy.dev/models/family-sedan",
+    "download": "https://tevy.dev/models/family-sedan/v1/lod0.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "0f5f333d67d76db1d4d39d3e19a21313206a32b81573691d378fb5698cfb7671",
+    "sha256": "8e1a7e02488919d3b2005ce89642f5d6e5a348f0d60d1aae338939d9aa0a8d07",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/sedan_traffic.glb",
+    "source": "https://tevy.dev/models/family-sedan",
+    "download": "https://tevy.dev/models/family-sedan/v1/lod2.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "5bc150a22f9363ab1551c773282bd5da286cad2534304e2b24f12fbbca1e9d38",
+    "sha256": "0e46869334ee0460242e8dd247d7c41cd00cd0b397d69eaf2781f255e867d2aa",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/street_tree.glb",
+    "source": "https://tevy.dev/models/strangler-fig",
+    "download": "https://tevy.dev/models/strangler-fig/v1/lod1.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "950573ff7b917d49b13f4c61e4f4b03f7544c3cccb472ced5f280d3be7141aed",
+    "sha256": "bf7cc50e979a232ce494341116c38f4dc5de56eb6ce899e67a7fb47b622b6457",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/city_bus.glb",
+    "source": "https://tevy.dev/models/non-step-city-bus",
+    "download": "https://tevy.dev/models/non-step-city-bus/v1/lod0.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "7d18b7f8a87c3e451456ba117fd8bd84ad2d702fc5f76c4ef9def7b898978fad",
+    "sha256": "2c89024a659883c25c0edd9fcbc57dfe8bd266c35f0fcd5f40cef3ac8eb0bd74",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/pedestrian_casual.glb",
+    "source": "https://tevy.dev/models/casual-walker",
+    "download": "https://tevy.dev/models/casual-walker/v1/lod1.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "ed578eebe688843f684391719158a08bf454665fd63f16df6b4745a57cffda9f",
+    "sha256": "84ecb97b669ee2824cde38c36b661bdcaee7c6e09bb7027551eb0456e754e922",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/pedestrian_older.glb",
+    "source": "https://tevy.dev/models/dog-walker",
+    "download": "https://tevy.dev/models/dog-walker/v1/lod1.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "a5408cf77434f9a74b112bc4924f07e1f86191edfac7f11eb4bb29b7d28b0ef4",
+    "sha256": "500c12b54d16edfb2c4434baefd51f0d782ec0510ad012b26fe2882be087cba3",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/shopfront.glb",
+    "source": "https://tevy.dev/models/housing-facade-shop",
+    "download": "https://tevy.dev/models/housing-facade-shop/v1/lod0.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "3e0a00d36a418c7163458047a23f024c37d25f399d0851415f5321b4f40fe66c",
+    "sha256": "e2b3814756d3bbfd30da57cf55bc31b8508aac180b8088bd77b2b9b6257bed37",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/produce_crate.glb",
+    "source": "https://tevy.dev/models/crate-of-apples",
+    "download": "https://tevy.dev/models/crate-of-apples/v1/lod1.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "790efc8c8b5c2615b0b30f3cf9c791dc8f6a0682fd988e49fae14f0c3d959df2",
+    "sha256": "e03181889cced8a1e30c41aa1a053e02436da848bcaa40dd2848b01cbcade4bb",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/burlap_sack.glb",
+    "source": "https://tevy.dev/models/tied-burlap-sack",
+    "download": "https://tevy.dev/models/tied-burlap-sack/v1/lod1.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "5423fa532cf88a42af4eec3c554bd5ca595f4adf8a502d1ad21e9d8e560a2fdc",
+    "sha256": "cc54a4577f4d433235bf2b0476b12059f5790f2c8132f423ad82cc00255dacdf",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/drink_crates.glb",
+    "source": "https://tevy.dev/models/soda-crate-pair",
+    "download": "https://tevy.dev/models/soda-crate-pair/v1/lod1.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "14d85a6928ea0479d7d6efe80a6b697a57b0310acfdd47c6b4fc4d1273724cab",
+    "sha256": "b8888d110aca8f9d8ad0504ac947388108a18f2ee0c228860071a84fdadceb56",
+    "conversion": "glTF Transform 4.5.1 ktxdecompress + dequantize; KTX-Software 4.4.2; steering_column node rename"
+  },
+  {
+    "file": "assets/models/cng.glb",
+    "source": "https://grab3d.com/models/vehicles/tuk-tuk/",
+    "download": "https://grab3d.com/dl/tuk-tuk/tuk-tuk.glb",
+    "license": "CC0-1.0",
+    "source_sha256": "3e8e7c1851179acd8ac6ca2952fac992e24e426c509ec448dcf620ce8ab0469e",
+    "sha256": "e311eef1040a79fcdd359069bc902c09083c5272e3ded8d96b2995e3fa2cc40b",
+    "conversion": "Wheel/handlebar pivot names normalized; source geometry and textures retained"
+  },
+  {
+    "file": "assets/textures/painted_plaster_wall_diff.jpg",
+    "source": "https://polyhaven.com/a/painted_plaster_wall",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/painted_plaster_wall/painted_plaster_wall_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "440310f05af089f2c93353167573403cbc3f805948203237b5d26431eeb9e19c"
+  },
+  {
+    "file": "assets/textures/painted_plaster_wall_nor_gl.jpg",
+    "source": "https://polyhaven.com/a/painted_plaster_wall",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/painted_plaster_wall/painted_plaster_wall_nor_gl_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "8eb01647d126eb5341e2c325821ad48c8ca11349dbef53447c95422c5d91cc9d"
+  },
+  {
+    "file": "assets/textures/painted_plaster_wall_rough.jpg",
+    "source": "https://polyhaven.com/a/painted_plaster_wall",
+    "download": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/painted_plaster_wall/painted_plaster_wall_rough_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "e0564c297b22ab1cf4ef02a82157b84ce3b92eb4fd49d9c64b7256a8b300af82"
+  }
+]
